@@ -18,7 +18,7 @@
 
 I'm Gabriel, a Back-end developer from the state of Minas Gerais - Brazil, and I'm absolotely fascinated about Javascript-based technologies.
 I love to discover and learn new things. Also I'm always pursuing the unknown both in life and as an I.T. professional.  
-I'd love to meet you and exchange some knowledge, so feel free to reach me out on my socials above.
+I'd love to meet you and exchange some knowledge, so feel free to reach me out in one of my socials above.
 <h1></h1>
 
 ### About me
