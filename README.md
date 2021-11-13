@@ -19,16 +19,18 @@
 I'm Gabriel, a Back-end developer from the state of Minas Gerais - Brazil, and I'm absolotely fascinated about Javascript-based technologies.
 I love to discover and learn new things, I'm always pursuing the unknown both in life and as an I.T. professional.  
 I'd love to meet you and exchange some knowledge, so feel free to reach me out on my socials above.
+<h1></h1>
 
-### About me
+## About me
 
 - 📚 I'm always working on something in my free time.
 - 🌐 I'm always trying to improve my English.
 - 💻 I'm also a CS:GO enthusiast, although I don't play it.
 - 🚀 I'm always trying to meet new people and live new experiences.
 - 🏄 I once wanted to become a professional skateboarder. But it was before I found out I could code.
+<h1></h1>
 
-### Stats
+## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielFernandes-dev&hide=issues&show_icons=true&title_color=d1d1d1&icon_color=3fb047&text_color=d1d1d1&bg_color=0d1117) 
 
