@@ -22,10 +22,11 @@ I'd love to meet you and exchange some knowledge, so feel free to reach me out o
 
 ### About me
 
-- 📚 Currently going for a degree of Systems Analysis and Development.
+- 📚 I'm always working on something in my free time.
 - 🌐 I'm always trying to improve my English.
-- 💻 Currently working at **LinkApi Solutions**.
+- 💻 I'm also a CS:G0 enthusiast, although I don't play it.
 - 🚀 I'm always trying to meet new people and live new experiences.
+- 🏄 I once wanted to become a professional skateboarder. But it was before I found out I could code.
 
 ### Stats
 
