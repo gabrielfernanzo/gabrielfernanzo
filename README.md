@@ -35,6 +35,7 @@ I'd love to meet you and exchange some knowledge, so feel free to reach me out i
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielFernandes-dev&hide=issues&show_icons=true&title_color=d1d1d1&icon_color=3fb047&text_color=d1d1d1&bg_color=0d1117) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielFernandes-dev&langs_count=8&layout=compact&bg_color=0d1117&text_color=d1d1d1&title_color=d1d1d1&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
+#
+
 ![Snake animation](https://github.com/gabrielFernandes-dev/gabrielFernandes-dev/blob/output/github-contribution-grid-snake.svg)
 
-- - -
