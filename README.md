@@ -37,4 +37,6 @@ I'd love to meet you and exchange some knowledge, so feel free to reach me out i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielFernandes-dev&langs_count=8&layout=compact&bg_color=0d1117&text_color=d1d1d1&title_color=d1d1d1)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/gabrielFernandes-dev/gabrielFernandes-dev/blob/output/github-contribution-grid-snake.svg)
+
 - - -
