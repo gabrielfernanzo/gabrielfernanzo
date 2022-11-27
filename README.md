@@ -12,14 +12,14 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a> -->
  
- <a href="https://t.me/gabrielqfer">
+<!--  <a href="https://t.me/gabrielqfer">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
- </a> 
+ </a>  -->
 </p>
 
 I'm Gabriel, a Back-end developer from the state of Minas Gerais - Brazil, and I'm absolotely fascinated about Javascript-based technologies.
 I love to discover and learn new things. Also I'm always pursuing the unknown both in life and as an I.T. professional.  
-I'd love to meet you and exchange some knowledge, so feel free to reach me out in one of my socials above.
+I'd love to meet you and exchange some knowledge, so feel free to reach out ot me.
 <h1></h1>
 
 ### Stats
