@@ -3,10 +3,10 @@
 </h1>
 
 <p align=center>
- <a href="mailto:gabriel.work076@gmail.com">                                                                                                    
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a href="mailto:gabrieqfernandes@icloud.com">                                                                                                    
+  <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" />
  </a>
-
+ 
  <!--  
  <a href="https://www.linkedin.com/in/gabriel-fernandes-5648231b9"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,9 +17,7 @@
  </a>  -->
 </p>
 
-I'm Gabriel, a Back-end developer from the state of Minas Gerais - Brazil, and I'm absolotely fascinated about Javascript-based technologies.
-I love to discover and learn new things. Also I'm always pursuing the unknown both in life and as an I.T. professional.  
-I'd love to meet you and exchange some knowledge, so feel free to reach out ot me.
+I'm Gabriel, a Brazillian Node.js developer, and really passionate to learning new stuff. I'm always trying to improve by keeping an eye on the news and trying new things on the projects I get to work on. I'd love to learn from or work with you, so please, fell free to reach out to me.
 <h1></h1>
 
 ### Stats
